@@ -1,0 +1,6 @@
+dao\ProfesorDao_Impl.class
+model\Asignatura.class
+dao\ProfesorDao.class
+model\Profesor.class
+dao\AsignaturaDao.class
+servlets\SvAsignatura.class
